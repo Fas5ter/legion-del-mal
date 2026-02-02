@@ -5,5 +5,3 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 
 # Cristian
-
-## Curso de Fernando en Udemy
